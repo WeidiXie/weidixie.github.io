@@ -5,6 +5,6 @@ function init() {
 		else
 			$('#educations').append(Handlebars.compile( $('#template_educationLeft').html() )( [education[i]]));
 	}
-	
 }
+
 init();

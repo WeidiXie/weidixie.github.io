@@ -3,11 +3,8 @@ function init() {
 	$('#about').load("html/about_me.html"); 
 	$('#education').load("html/education.html");
 	$('#work_experience').load("html/work_experience.html");
-	$('#skills').load("html/skills.html"); 
 	$('#portfolio').load("html/portfolio.html");
-	$('#contact').load("html/contact.html"); 
-	$('#footer').load("html/footer.html"); 
-
+	$('#footer').load("html/footer.html");
   document.title = myself.name;
 }
 init();

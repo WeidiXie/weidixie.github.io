@@ -1,65 +1,46 @@
 var myself ={
 	name:"Weidi Xie",
-	profession:"My Profession",
-	address:"My address",
-	phone:"+999999999",
-	email:"me@mail.com"
+	profession:"Postdoctoral Researcher in Visual Geometry Group (VGG)",
+	address:"Parks Road, Oxford, OX1 3PJ",
+	email:"removethisweidi.xie@eng.ox.ac.uk"
 }
+
 var starter ={
-	init :"Yo",
+	init :"Hi",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
 	address:myself.address,
-	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659" ,
-	
 }
+
 var header =[
-	{
-		title:"PHONE",
-		text:starter.phone,
-		link:"#header"
-	},
-	{
-		title:"ADDRESS",
-		text:starter.address,
-		link:""
-	},
 	{
 		title:"E-MAIL",
 		text:starter.email,
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"WEBSITE",
-		text:"demo website",
-		link:"https://halumz.github.io/"
-	},
-	{
-		title:"Github",
-		text:"halumz",
-		link:"https://github.com/halumz"
+		title:"ADDRESS",
+		text:starter.address,
+		link:""
 	}
 ];
 
 var aboutME = [
 	{
-		txt:"about myself 1",
+		txt:"I'm currently a post-doctoral researcher in Visual Geometry Group (VGG), Oxford.",
 	},
 	{
-		txt:"about myself 2",
+		txt:"Previously I completed my D.Phil (Phd) under the supervision of Professor Alison Noble and Professor Andrew Zisserman.",
 	},
 	{
-		txt:"about myself 3",
+		txt:"My research interests are in computer vision, biomedical image analsis, and deep learning.",
 	},
 	{
-		txt:"about myself 4",
-	},
-	{
-		txt:"about myself 5",
+		txt:"Please see my publications for some academic work.",
 	}
 ];
+
 var aboutAwards = [
 	{
 		txt:"Award 1",
@@ -76,7 +57,29 @@ var aboutAwards = [
 	{
 		txt:"Award 5",
 	}
-	
+];
+
+var education =[
+   {
+      xm:"D.Phil in Engineering Science in 2018",
+      result:"Examined by: Professor Andrea Vedaldi and Professor Daniel Rueckert",
+      institution :"University of Oxford"
+   },
+   {
+      xm:"M.Sc. in Computer Graphics, Vision and Imaging in 2013",
+      result:"Distinction on MSC Thesis",
+      institution :"University College London"
+   },
+   {
+      xm:"B.Sc. in Telecommunication Engineering in 2012 (Exchange Student)",
+      result:"First-class Honour",
+      institution :"Queen Mary, University of London"
+   },
+   {
+      xm:"B.Sc. in Telecommunication Engineering in 2012",
+      result:"First-class Honour",
+      institution :"Beijing University of Posts and Telecommunications"
+   }
 ];
 
 var workExperience =[
@@ -99,28 +102,7 @@ var workExperience =[
 		time :"2012 - 2015"
 	}
 ];
-var education =[
-	{
-		xm:"M.Sc. in CSE in 2012",
-		result:"4.00 out of 4.00",
-		institution :"My University Name"
-	},
-	{
-		xm:"B.Sc.  in CSE in 2010",
-		result:"4.00 out of 4.00",
-		institution :"My University Name"
-	},
-	{
-		xm:"Higher Secondary Certificate 2006",
-		result:"5.00 out of 5.00 ",
-		institution :"My School Name"
-	},
-	{
-		xm:"Secondary School Certificate 2004",
-		result:"5.00 out of 5.00 ",
-		institution :"My School Name"
-	}
-];
+
 var skillsLeft =[
 	{
 		txt:"C , C++",
@@ -139,6 +121,7 @@ var skillsLeft =[
 		percentage :"75"
 	}
 ];
+
 var skillsRight=[
 	{
 		txt:"Services and Receivers",
@@ -157,6 +140,7 @@ var skillsRight=[
 		percentage :"80"
 	}
 ];
+
 var portfolioMenu =[
 	{
 		txt :"Catagory A"
@@ -168,6 +152,7 @@ var portfolioMenu =[
 		txt :"Catagory C"
 	}
 ];
+
 var portfolios = [
 	[
 		{
