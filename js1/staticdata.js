@@ -4,21 +4,24 @@ var myself ={
 	address:"Parks Road, Oxford OX1 3PJ",
 	phone:"+",
 	email:"weidi.xie@eng.ox.ac.uk"
+	google_scholar:"Google Scholar"
 }
 var starter ={
 	init :"Hi",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
+	profession:myself.profession
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
+	google_scholar:myself.google_scholar
 	contactMapEmbadded :"https://www.google.com/maps/place/Department+of+Engineering+Science/@51.7602176,-1.264092,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a7ef02ec61:0xb3c3c75952940c70!8m2!3d51.7602176!4d-1.2597146" ,
 	
 }
 var header =[
 	{
-		title:"PHONE",
-		text:starter.phone,
+		title:"PROFESSION",
+		text:starter.profession,
 		link:"#header"
 	},
 	{
@@ -32,32 +35,24 @@ var header =[
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"WEBSITE",
-		text:"demo website",
-		link:"https://halumz.github.io/"
+		title:"GOOGLE SCHOLAR",
+		text:starter.google_scholar,
+		link:"https://scholar.google.co.uk/citations?user=Vtrqj4gAAAAJ&hl=en"
 	},
-	{
-		title:"Github",
-		text:"halumz",
-		link:"https://github.com/halumz"
-	}
 ];
 
 var aboutME = [
 	{
-		txt:"about myself 1",
+		txt:"I'm currently a post-doctoral researcher in Visual Geometry Group, University of Oxford.",
 	},
 	{
-		txt:"about myself 2",
+		txt:"Previously I completed my Phd under the supervision of Prof. Alison Noble and Prof. Andrew Zisserman.",
 	},
 	{
-		txt:"about myself 3",
+		txt:"My research interests are in computer vision, biomedical image analsis, and deep learning.",
 	},
 	{
-		txt:"about myself 4",
-	},
-	{
-		txt:"about myself 5",
+		txt:"Please see my publications for some academic work.",
 	}
 ];
 var aboutAwards = [
