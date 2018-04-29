@@ -1,6 +1,6 @@
 var myself ={
 	name:"Weidi Xie",
-	profession:"Post-doctoral Researcher in VGG",
+	profession:"Postdoctoral Researcher in VGG",
 	address:"Engineering Science Department, Oxford",
 	email:"weidi.xie@eng.ox.ac.uk"
 }
@@ -41,7 +41,7 @@ var aboutME = [
         txt:"Previously I completed my Phd under the supervision of Prof. Alison Noble and Prof. Andrew Zisserman."
     }
     {
-        txt:" My research interests are in computer vision, biomedical image analsis, and deep learning."
+        txt:"My research interests are in computer vision, biomedical image analsis, and deep learning."
 	}
 	{
 	    txt:"Please see my publications for some academic work."
