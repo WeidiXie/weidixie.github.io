@@ -5,6 +5,6 @@ function init() {
 		else
 			$('#work_experience').append(Handlebars.compile( $('#template_work_experienceLeft').html() )( [workExperience[i]]));
 	}
-	
 }
+
 init();

@@ -1,5 +1,5 @@
 var myself ={
-	name:"Weidi Xie",
+	name:"WEIDI XIE",
 	profession:"Postdoctoral Researcher in Visual Geometry Group (VGG)",
 	address:"Parks Road, Oxford, OX1 3PJ",
 	email:"removethisweidi.xie@eng.ox.ac.uk"
@@ -15,12 +15,12 @@ var starter ={
 
 var header =[
 	{
-		title:"E-MAIL",
+		title:"E-MAIL:",
 		text:starter.email,
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"ADDRESS",
+		title:"ADDRESS:",
 		text:starter.address,
 		link:""
 	}
@@ -28,13 +28,16 @@ var header =[
 
 var aboutME = [
 	{
-		txt:"I'm currently a post-doctoral researcher in Visual Geometry Group (VGG), Oxford.",
+		txt:"I completed my D.Phil in 2018, in VGG & IBME, Oxford,",
 	},
 	{
-		txt:"Previously I completed my D.Phil (Phd) under the supervision of Professor Alison Noble and Professor Andrew Zisserman.",
+	    txt:"under the supervision of Professor Alison Noble and Professor Andrew Zisserman."
 	},
 	{
-		txt:"My research interests are in computer vision, biomedical image analsis, and deep learning.",
+		txt:"Now, I'm a postdoctoral researcher in Visual Geometry Group (VGG), Oxford.",
+	},
+	{
+		txt:"My research interests are in computer vision, biomedical image analysis, and deep learning.",
 	},
 	{
 		txt:"Please see my publications for some academic work.",
@@ -53,9 +56,6 @@ var aboutAwards = [
 	},
 	{
 		txt:"Award 4",
-	},
-	{
-		txt:"Award 5",
 	}
 ];
 
@@ -66,7 +66,7 @@ var education =[
       institution :"University of Oxford"
    },
    {
-      xm:"M.Sc. in Computer Graphics, Vision and Imaging in 2013",
+      xm:"M.Sc. in Computer Graphics, Vision and Imaging in 2014",
       result:"Distinction on MSC Thesis",
       institution :"University College London"
    },
