@@ -1,8 +1,9 @@
 var myself ={
 	name:"Weidi Xie",
-	profession:"Postdoctoral Researcher in VGG",
-	address:"Engineering Science Department, Oxford",
-	email:"weidi.xie@eng.ox.ac.uk"
+    profession:"Postdoctoral Researcher in VGG",
+    address:"Engineering Science Department, Oxford",
+	phone:".....",
+    email:"weidi.xie@eng.ox.ac.uk"
 }
 var starter ={
 	init :"Hello",
@@ -12,14 +13,14 @@ var starter ={
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded:
-	"https://www.google.com/maps/place/Department+of+Engineering+Science/@51.7602176,-1.264092,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a7ef02ec61:0xb3c3c75952940c70!8m2!3d51.7602176!4d-1.2597146",
+	contactMapEmbadded :   "https://www.google.com/maps/place/Department+of+Engineering+Science/@51.7602176,-1.264092,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a7ef02ec61:0xb3c3c75952940c70!8m2!3d51.7602176!4d-1.2597146",
+
 }
 var header =[
-    {
-		title:"Profession",
-		text:starter.profession,
-		link:""
+	{
+		title:"PHONE",
+		text:starter.phone,
+		link:"#header"
 	},
 	{
 		title:"ADDRESS",
@@ -30,22 +31,34 @@ var header =[
 		title:"E-MAIL",
 		text:starter.email,
 		link:"mailto:"+starter.email
+	},
+	{
+		title:"WEBSITE",
+		text:"demo website",
+		link:"https://halumz.github.io/"
+	},
+	{
+		title:"Github",
+		text:"halumz",
+		link:"https://github.com/halumz"
 	}
 ];
 
 var aboutME = [
 	{
-		txt:"I'm currently a post-doctoral researcher in Visual Geometry Group, Oxford. "
-    }
-    {
-        txt:"Previously I completed my Phd under the supervision of Prof. Alison Noble and Prof. Andrew Zisserman."
-    }
-    {
-        txt:"My research interests are in computer vision, biomedical image analsis, and deep learning."
-	}
+		txt:"about myself 1",
+	},
 	{
-	    txt:"Please see my publications for some academic work."
-
+		txt:"about myself 2",
+	},
+	{
+		txt:"about myself 3",
+	},
+	{
+		txt:"about myself 4",
+	},
+	{
+		txt:"about myself 5",
 	}
 ];
 var aboutAwards = [
@@ -67,29 +80,6 @@ var aboutAwards = [
 
 ];
 
-var education =[
-	{
-		xm:"D.Phil in Engineering Science in 2018",
-		result:"Examined by: Prof. Andrea Vedaldi and Prof. Daniel Rueckert",
-		institution :"University of Oxford"
-	},
-	{
-		xm:"M.Sc. in Computer Graphics, Vision and Imaging in 2013",
-		result:"THESIS: Distinction",
-		institution :"University College London"
-	},
-	{
-		xm:"B.Sc. in Telecommunication Engineering in 2012 (Exchange Student)",
-		result:"First-class Honour",
-		institution :"Queen Mary, University of London"
-	},
-	{
-		xm:"B.Sc. in Telecommunication Engineering in 2012",
-		result:"First-class Honour",
-		institution :"Beijing University of Posts and Telecommunications"
-	}
-];
-
 var workExperience =[
 	{
 		company:"Company A",
@@ -108,6 +98,28 @@ var workExperience =[
 		details:"I can write a short description here",
 		position:"My post",
 		time :"2012 - 2015"
+	}
+];
+var education =[
+	{
+		xm:"M.Sc. in CSE in 2012",
+		result:"4.00 out of 4.00",
+		institution :"My University Name"
+	},
+	{
+		xm:"B.Sc.  in CSE in 2010",
+		result:"4.00 out of 4.00",
+		institution :"My University Name"
+	},
+	{
+		xm:"Higher Secondary Certificate 2006",
+		result:"5.00 out of 5.00 ",
+		institution :"My School Name"
+	},
+	{
+		xm:"Secondary School Certificate 2004",
+		result:"5.00 out of 5.00 ",
+		institution :"My School Name"
 	}
 ];
 var skillsLeft =[
