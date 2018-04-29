@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg_header.jpg" afterPath="$PROJECT_DIR$/images/bg_header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/methode-sundaytimes-prod-web-bin-4ba37ac4-fdf4-11e7-ba61-5366488da64d.jpg" afterPath="$PROJECT_DIR$/images/methode-sundaytimes-prod-web-bin-4ba37ac4-fdf4-11e7-ba61-5366488da64d.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/page_1.jpg" afterPath="$PROJECT_DIR$/images/page_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pp.jpg" afterPath="$PROJECT_DIR$/images/pp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pdf/cv.pdf" afterPath="$PROJECT_DIR$/pdf/cv.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/about_me.html" afterPath="$PROJECT_DIR$/html/about_me.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/footer.html" afterPath="$PROJECT_DIR$/html/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js1/aboutme.js" afterPath="$PROJECT_DIR$/js1/aboutme.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js1/staticdata.js" afterPath="$PROJECT_DIR$/js1/staticdata.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/js1/aboutme.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/js1/contact.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,8 +86,8 @@
       <file leaf-file-name="staticdata.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="3735">
+              <caret line="249" column="0" lean-forward="true" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -370,7 +380,7 @@
     <entry file="file://$PROJECT_DIR$/js1/aboutme.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -394,7 +404,7 @@
     <entry file="file://$PROJECT_DIR$/js1/contact.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -417,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="3735">
+          <caret line="249" column="0" lean-forward="true" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
           <folding />
         </state>
       </provider>

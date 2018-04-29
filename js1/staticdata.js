@@ -12,7 +12,7 @@ var starter ={
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded :
+	contactMapEmbadded:
 	"https://www.google.com/maps/place/Department+of+Engineering+Science/@51.7602176,-1.264092,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a7ef02ec61:0xb3c3c75952940c70!8m2!3d51.7602176!4d-1.2597146",
 }
 var header =[
@@ -64,7 +64,7 @@ var aboutAwards = [
 	{
 		txt:"Award 5",
 	}
-	
+
 ];
 
 var education =[
