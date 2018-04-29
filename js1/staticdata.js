@@ -2,7 +2,6 @@ var myself ={
 	name:"Weidi Xie",
 	profession:"Postdoctoral Researcher in Visual Geometry Group",
 	address:"Parks Road, Oxford OX1 3PJ",
-	phone:"+",
 	email:"weidi.xie@eng.ox.ac.uk"
 	google_scholar:"Google Scholar"
 }
@@ -11,7 +10,6 @@ var starter ={
 	intro:"I'm "+myself.name,
 	status:myself.profession,
 	address:myself.address,
-	phone:myself.phone,
 	email:myself.email,
 	google_scholar:myself.google_scholar
 	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659" ,
