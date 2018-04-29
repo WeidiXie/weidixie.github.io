@@ -1,18 +1,18 @@
 var myself ={
-	name:"Mashuk Sadman",
-	profession:"My Profession",
-	address:"My address",
-	phone:"+999999999",
-	email:"me@mail.com"
+	name:"Weidi Xie",
+	profession:"Postdoctoral Researcher in Visual Geometry Group",
+	address:"Parks Road, Oxford OX1 3PJ",
+	phone:"+",
+	email:"weidi.xie@eng.ox.ac.uk"
 }
 var starter ={
-	init :"Yo",
+	init :"Hi",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659" ,
+	contactMapEmbadded :"https://www.google.com/maps/place/Department+of+Engineering+Science/@51.7602176,-1.264092,17z/data=!3m1!4b1!4m5!3m4!1s0x4876c6a7ef02ec61:0xb3c3c75952940c70!8m2!3d51.7602176!4d-1.2597146" ,
 	
 }
 var header =[
