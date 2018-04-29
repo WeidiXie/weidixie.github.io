@@ -2,7 +2,7 @@ var myself ={
 	name:"Weidi Xie",
 	profession:"Postdoctoral Researcher in Visual Geometry Group",
 	address:"Parks Road, Oxford OX1 3PJ",
-	email:"weidi.xie@eng.ox.ac.uk"
+	email:"removethisweidi.xie@eng.ox.ac.uk"
 	google_scholar:"Google Scholar"
 }
 var starter ={
