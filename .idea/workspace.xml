@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/about_me.html" afterPath="$PROJECT_DIR$/html/about_me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js1/index.js" afterPath="$PROJECT_DIR$/js1/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js1/staticdata.js" afterPath="$PROJECT_DIR$/js1/staticdata.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js1/header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="modernizr.custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js1/modernizr.custom.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="staticdata.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="staticdata.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="17" column="192" lean-forward="false" selection-start-line="17" selection-start-column="192" selection-end-line="17" selection-end-column="192" />
               <folding />
             </state>
           </provider>
@@ -105,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_me.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_me.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/about_me.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -133,9 +121,9 @@
         <option value="$PROJECT_DIR$/js1/aboutme.js" />
         <option value="$PROJECT_DIR$/html/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js1/staticdata.js" />
         <option value="$PROJECT_DIR$/js1/index.js" />
         <option value="$PROJECT_DIR$/html/about_me.html" />
+        <option value="$PROJECT_DIR$/js1/staticdata.js" />
       </list>
     </option>
   </component>
@@ -441,14 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js1/smooth_scrolling.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -483,8 +463,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/about_me.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Personal-Website-Template-gh-pages/js1/staticdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="192" lean-forward="false" selection-start-line="17" selection-start-column="192" selection-end-line="17" selection-end-column="192" />
           <folding />
         </state>
       </provider>
