@@ -55,6 +55,7 @@ var aboutME = [
 		txt:"Please see my publications for some academic work.",
 	}
 ];
+
 var aboutAwards = [
 	{
 		txt:"Award 1",

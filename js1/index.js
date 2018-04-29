@@ -1,8 +1,8 @@
 function init() {
 	$('#header').load("html/header.html"); 
 	$('#about').load("html/about_me.html"); 
-	$('#work_experience').load("html/work_experience.html"); 
-	$('#education').load("html/education.html"); 
+	$('#education').load("html/education.html");
+	$('#work_experience').load("html/work_experience.html");
 	$('#skills').load("html/skills.html"); 
 	$('#portfolio').load("html/portfolio.html");
 	$('#contact').load("html/contact.html"); 

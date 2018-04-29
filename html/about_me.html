@@ -6,26 +6,12 @@
 		<div class="container">
 				<h3 class="title"> About Me</h3>
 				<div class="col-md-6 about-left" id="aboutme">
-					
 				</div>
-				<div class="col-md-6 about-right">
-					<ul id ="aboutAwards">
-						<h5>Awards</h5>
-						<li><span class="glyphicon glyphicon-menu-right"></span> 6th position in Code Warriors challenge 2014</li>
-						
-					<div class="clearfix"> </div>
-				</div>
-				<div class="clearfix"> </div>
 			</div>
 	<script id="template_aboutme" type = "text/x-handlebars-template">
 			{{#each this}}
 			<p>{{txt}}</p>
 			<p style="height: 10px;"></p>
-			{{/each}}
-	</script>
-	<script id="template_aboutAwards" type = "text/x-handlebars-template">
-			{{#each this}}
-			<li><span class="glyphicon glyphicon-menu-right"></span>{{txt}}</li>
 			{{/each}}
 	</script>
 	<script src="js1/aboutme.js"></script>
