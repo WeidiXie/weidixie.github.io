@@ -1,24 +1,24 @@
 var myself ={
-	name:"Weidi Xie",
-	profession:"Postdoctoral Researcher in Visual Geometry Group",
-	address:"Parks Road, Oxford OX1 3PJ",
-	email:"removethisweidi.xie@eng.ox.ac.uk"
-	google_scholar:"Google Scholar"
+	name:"Mashuk Sadman",
+	profession:"My Profession",
+	address:"My address",
+	phone:"+999999999",
+	email:"me@mail.com"
 }
 var starter ={
-	init :"Hi",
+	init :"Yo",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
 	address:myself.address,
+	phone:myself.phone,
 	email:myself.email,
-	google_scholar:myself.google_scholar
 	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659" ,
 	
 }
 var header =[
 	{
-		title:"PROFESSION",
-		text:starter.profession,
+		title:"PHONE",
+		text:starter.phone,
 		link:"#header"
 	},
 	{
@@ -32,27 +32,34 @@ var header =[
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"GOOGLE SCHOLAR",
-		text:starter.google_scholar,
-		link:"https://scholar.google.co.uk/citations?user=Vtrqj4gAAAAJ&hl=en"
+		title:"WEBSITE",
+		text:"demo website",
+		link:"https://halumz.github.io/"
 	},
+	{
+		title:"Github",
+		text:"halumz",
+		link:"https://github.com/halumz"
+	}
 ];
 
 var aboutME = [
 	{
-		txt:"I'm currently a post-doctoral researcher in Visual Geometry Group, University of Oxford.",
+		txt:"about myself 1",
 	},
 	{
-		txt:"Previously I completed my Phd under the supervision of Prof. Alison Noble and Prof. Andrew Zisserman.",
+		txt:"about myself 2",
 	},
 	{
-		txt:"My research interests are in computer vision, biomedical image analsis, and deep learning.",
+		txt:"about myself 3",
 	},
 	{
-		txt:"Please see my publications for some academic work.",
+		txt:"about myself 4",
+	},
+	{
+		txt:"about myself 5",
 	}
 ];
-
 var aboutAwards = [
 	{
 		txt:"Award 1",
