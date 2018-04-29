@@ -1,5 +1,5 @@
 var myself ={
-	name:"Mashuk Sadman",
+	name:"Weidi Xie",
 	profession:"My Profession",
 	address:"My address",
 	phone:"+999999999",
