@@ -10,7 +10,6 @@ var starter ={
 	init :"Hi",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
-	profession:myself.profession
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
