@@ -1,8 +1,7 @@
 function init() {
 	$('#header').load("html/header.html"); 
 	$('#about').load("html/about_me.html"); 
-	$('#education').load("html/education.html");
-	$('#work_experience').load("html/work_experience.html");
+	$('#publication').load("html/publication.html");
 	$('#portfolio').load("html/portfolio.html");
 	$('#footer').load("html/footer.html");
   document.title = myself.name;

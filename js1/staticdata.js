@@ -71,6 +71,13 @@ var aboutAwards = [
 	}
 ];
 
+var publication = [
+	{
+		title:"In 2018, I completed my D.Phil in VGG & IBME,",
+		author:"weidi "
+	}
+];
+
 var education =[
    {
       xm:"D.Phil in Engineering Science in 2018",
