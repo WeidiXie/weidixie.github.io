@@ -84,162 +84,127 @@ var education =[
 
 var workExperience =[
 	{
-		company:"Company A",
-		details:"I can write a short description here",
-		position:"My post",
-		time :"2016 - Present"
+		company:"University of Oxford",
+		details:"I'm involved in the Seebibyte Project.",
+		position:"Postdoc Researcher in VGG",
+		time :"Nov,2017 - Present"
 	},
 	{
-		company:"Company B",
-		details:"I can write a short description here",
-		position:"My post",
-		time :"2015 - 2016"
-	},
-	{
-		company:"Company C",
-		details:"I can write a short description here",
-		position:"My post",
-		time :"2012 - 2015"
+		company:"University College London",
+		details:"I was responsible for developing a cell tracking system based on level-set.",
+		position:"Research Assistant in MRC Laboratory for Molecular Cell Biology ",
+		time :"Sep,2013 - Feb,2014"
 	}
 ];
 
 var skillsLeft =[
 	{
-		txt:"C , C++",
-		percentage :"80"
-	},
-	{
-		txt:"JAVA",
+		txt:"Python",
 		percentage :"90"
 	},
 	{
-		txt:"XML & JSON",
+		txt:"Matlab",
 		percentage :"80"
 	},
 	{
-		txt:"Customization of Views",
-		percentage :"75"
+		txt:"C++",
+		percentage :"70"
 	}
 ];
 
 var skillsRight=[
 	{
-		txt:"Services and Receivers",
-		percentage :"90"
-	},
-	{
-		txt:"MVC, MVP",
-		percentage :"60"
-	},
-	{
-		txt:"UX DEVELOPER",
-		percentage :"70"
-	},
-	{
-		txt:"Third party libraries and API",
-		percentage :"80"
+		txt:"",
+		percentage :""
 	}
 ];
 
 var portfolioMenu =[
 	{
-		txt :"Catagory A"
+		txt :"Biomedical Image Analysis"
 	},
 	{
-		txt :"Catagory B"
-	},
-	{
-		txt :"Catagory C"
+		txt :"Computer Vision"
 	}
 ];
 
 var portfolios = [
 	[
 		{
-			name:"Project A 1",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon1.jpg",
-			imgSrc : "images/icon1.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Project A 2",
-			creator:" creator",
-			desc:"a short description",
-			link:"http://google.com",
-			imgSrc : "images/icon2.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Project A 3",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon3.jpg",
-			imgSrc : "images/icon3.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Project A 4",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon4.jpg",
-			imgSrc : "images/icon4.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		}
-	],
-	[
-		{
-			name:"Project B 1",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon5.jpg",
-			imgSrc : "images/icon5.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Project B 3",
-			creator:" creator",
-			desc:"a short description",
-			link:"http://google.com",
-			imgSrc : "images/icon6.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Project B 2",
-			creator:" creator",
-			desc:"a short description",
-			link:"http://google.com",
-			imgSrc : "images/icon7.jpg",
-			type : "Catagory 7",
-			btntxt : "Visit Account"
+			name:"Microscopy Cell Counting",
+			creator:"Weidi Xie",
+			desc:"Microscopy Image Analysis",
+			link:"https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1149104",
+			imgSrc : "images/cell_count.png",
+			type : "Biomedical Image Analysis",
+			btntxt : "Link"
 		},
 
-	],
-	[
 		{
-			name:"Project C 1",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon8.jpg",
-			imgSrc : "images/icon8.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
+			name:"3D Fetal Brain Structure Localization",
+			creator:"Weidi Xie",
+			desc:"3D Ultrasound Neurosonography",
+			link:"https://www.sciencedirect.com/science/article/pii/S1361841518301920",
+			imgSrc : "images/3d brain structure.png",
+			type : "Biomedical Image Analysis",
+			btntxt : "Link"
 		},
 		{
-			name:"Project C 2",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon9.jpg",
-			imgSrc : "images/icon9.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
+			name:"3D Fetal Brain Alignment",
+			creator:"Weidi Xie",
+			desc:"3D Ultrasound Neurosonography",
+			link:"https://www.sciencedirect.com/science/article/pii/S1361841518300306",
+			imgSrc : "images/3d brain alignment.png",
+			type : "Biomedical Image Analysis",
+			btntxt : "Link"
+		},
+		{
+			name:"Cardiac MR Segmentation",
+			creator:" Weidi Xie",
+			desc:"CMR Segmentation",
+			link:"https://arxiv.org/abs/1711.01094",
+			imgSrc : "images/cmr segmentation.png",
+			type : "Biomedical Image Analysis",
+			btntxt : "Link"
 		}
-	]
+	],
+	[
+	    {
+			name:"Layer Recurrent Neural Networks",
+			creator:"Weidi Xie",
+			desc:"Semantic Segmentation",
+			link:"https://openreview.net/pdf?id=rJJRDvcex",
+			imgSrc : "images/lrnn.png",
+			type : "Computer Vision",
+			btntxt : "Link"
+		},
+		{
+			name:"Comparator Networks",
+			creator:"Weidi Xie",
+			desc:"Face Recognition",
+			link:"",
+			imgSrc : "images/comparator networks.png",
+			type : "Computer Vision",
+			btntxt : "Coming Soon"
+		},
+        {
+			name:"VGGFace2",
+			creator:"Weidi Xie",
+			desc:"Face Recognition Dataset",
+			link:"http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/",
+			imgSrc : "images/vggface2.png",
+			type : "Computer Vision",
+			btntxt : "Link"
+		},
+		{
+			name:"Multicolumn Networks",
+			creator:"Weidi Xie",
+			desc:"Face Recognition",
+			link:"",
+			imgSrc : "images/multicolumn networks.png",
+			type : "Computer Vision",
+			btntxt : "Coming Soon"
+		},
+	],
+
 ];
