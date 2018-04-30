@@ -141,7 +141,7 @@ var portfolios = [
 		},
 
 		{
-			name:"3D Fetal Brain Structure Localization",
+			name:"3D Brain Structure Localization",
 			creator:"Weidi Xie",
 			desc:"3D Ultrasound Neurosonography",
 			link:"https://www.sciencedirect.com/science/article/pii/S1361841518301920",
@@ -172,7 +172,7 @@ var portfolios = [
 	    {
 			name:"Layer Recurrent Neural Networks",
 			creator:"Weidi Xie",
-			desc:"Semantic Segmentation",
+			desc:"Segmentation",
 			link:"https://openreview.net/pdf?id=rJJRDvcex",
 			imgSrc : "images/lrnn.png",
 			type : "Computer Vision",
