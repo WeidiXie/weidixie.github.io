@@ -1,4 +1,4 @@
 function init() {
-	$('#publication').append(Handlebars.compile( $('#template_publication').html() )( publication));
+	$('#publication_module').append(Handlebars.compile( $('#template_publication').html() )( publication));
 }
 init();
