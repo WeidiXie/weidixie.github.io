@@ -105,7 +105,7 @@ var publication = [
         author: "Ruobing Huang, Weidi Xie and J. Alison Noble",
         title: "VP-Nets : Efficient Automatic Localization of Key Brain Structures in 3D Fetal Neurosonography",
         conf: "In: Medical Image Analysis, Volume 47, July 2018, Pages 127–139",
-        pdf: "pdf/np_nets.pdf",
+        pdf: "pdf/vp_nets.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920"
     },
     {
