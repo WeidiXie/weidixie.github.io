@@ -28,13 +28,25 @@ var header =[
 
 var aboutME = [
 	{
-		txt:"I completed my D.Phil in 2018, in VGG & IBME, Oxford,",
+		txt:"In 2018, I completed my D.Phil in VGG & IBME,",
 	},
 	{
 	    txt:"under the supervision of Professor Alison Noble and Professor Andrew Zisserman."
 	},
 	{
-		txt:"Now, I'm a postdoctoral researcher in Visual Geometry Group (VGG), Oxford.",
+	    txt:" "
+	},
+	{
+		txt:"I am a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
+	},
+	{
+		txt:"I am a recipient of Oxford-Google DeepMind Graduate Scholarships from Google Deepmind.",
+	},
+	{
+	    txt:" "
+	},
+	{
+		txt:"Currently, I'm a postdoctoral researcher in Visual Geometry Group (VGG), Oxford.",
 	},
 	{
 		txt:"My research interests are in computer vision, biomedical image analysis, and deep learning.",

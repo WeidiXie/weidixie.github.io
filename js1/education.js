@@ -6,5 +6,4 @@ function init() {
 			$('#educations').append(Handlebars.compile( $('#template_educationLeft').html() )( [education[i]]));
 	}
 }
-
 init();
