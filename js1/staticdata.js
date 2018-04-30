@@ -28,7 +28,7 @@ var header = [
 
 var aboutME = [
     {
-        txt: "In 2018, I completed my D.Phil in VGG & IBME,",
+        txt: "I completed my D.Phil in Engineering Science in 2018,",
     },
     {
         txt: "under the supervision of Professor Alison Noble and Professor Andrew Zisserman."
@@ -37,10 +37,10 @@ var aboutME = [
         txt: " "
     },
     {
-        txt: "I am a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
+        txt: "I was a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
     },
     {
-        txt: "I am a recipient of Oxford-Google DeepMind Graduate Scholarships from Google Deepmind.",
+        txt: "I was a recipient of Oxford-Google DeepMind Graduate Scholarships from Google Deepmind.",
     },
     {
         txt: " "
@@ -95,9 +95,9 @@ var publication = [
     },
 
     {
-        author: "Weidi Xie*, Davis M. Vigneault*, Carolyn Y. Ho, David A. Bluemke and J. Alison Noble",
+        author: "Weidi Xie*, Davis M. Vigneault*, Carolyn Y. Ho, David A. Bluemke and J. Alison Noble (* refers to equal contribution)",
         title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks",
-        conf: "Submitted to Medical Image Analysis. (Under Second Review) (* refers to equal contribution)",
+        conf: "Submitted to Medical Image Analysis. (Under Second Review)",
         pdf: "pdf/omega_nets.pdf",
         website: "https://arxiv.org/abs/1711.01094"
     },
@@ -109,9 +109,9 @@ var publication = [
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920"
     },
     {
-        author: "Weidi Xie*, Ana I.L. Namburete*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble",
+        author: "Weidi Xie*, Ana I.L. Namburete*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble (* refers to equal contribution)",
         title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning",
-        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14 (* refers to equal contribution)",
+        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14",
         pdf: "pdf/3d_brain_alignment.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306"
     },
