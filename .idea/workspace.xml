@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3d brain alignment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3d brain structure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cell_count.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cmr segmentation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/comparator networks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lrnn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/multicolumn networks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vggface2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdf/Dphil_Viva.pdf" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon2.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon3.jpg" afterPath="" />
@@ -13,6 +22,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icon9.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js1/staticdata.js" afterPath="$PROJECT_DIR$/js1/staticdata.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
