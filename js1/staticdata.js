@@ -80,14 +80,14 @@ var publication = [
         website: ""
     },
     {
-        author: "Weidi Xie, Li Shen, and Andrew Zisserman",
+        author: "Weidi Xie, Li Shen and Andrew Zisserman",
         title: "Comparator Networks.",
         conf: "Submitted to European Conference on Computer Vision (ECCV), 2018",
         pdf: "pdf/",
         website: ""
     },
     {
-        author: "Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi, and Andrew Zisserman",
+        author: "Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi and Andrew Zisserman",
         title: "VGGFace2: A Dataset for Recognising Faces Across Pose and Age.",
         conf: "In: IEEE International Conference on Automatic Face and Gesture Recognition (F&G), 2018.",
         pdf: "pdf/vggface2.pdf",
@@ -102,21 +102,21 @@ var publication = [
         website: "https://arxiv.org/abs/1711.01094"
     },
     {
-        author: "Ruobing Huang, Weidi Xie, J. Alison Noble",
+        author: "Ruobing Huang, Weidi Xie and J. Alison Noble",
         title: "VP-Nets : Efficient Automatic Localization of Key Brain Structures in 3D Fetal Neurosonography",
         conf: "In: Medical Image Analysis, Volume 47, July 2018, Pages 127–139",
         pdf: "pdf/np_nets.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920"
     },
     {
-        author: "Weidi Xie*, Ana I.L. Namburete*, Mohammad Yaqub, Andrew Zisserman, and J. Alison Noble",
+        author: "Weidi Xie*, Ana I.L. Namburete*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble",
         title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning",
         conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14 (* refers to equal contribution)",
         pdf: "pdf/3d_brain_alignment.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306"
     },
     {
-        author: "Davis M. Vigneaulta, Weidi Xie, David A. Bluemke, and J. Alison Noble",
+        author: "Davis M. Vigneaulta, Weidi Xie, David A. Bluemke and J. Alison Noble",
         title: "Feature Tracking Cardiac Magnetic Resonance via Deep Learning and Spline Optimization",
         conf: "In: Functional Imaging and Modelling of the Heart (FIMH), 2017 (Best Poster Award)",
         pdf: "pdf/cmr_segmentation.pdf",
