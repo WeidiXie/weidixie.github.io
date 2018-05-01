@@ -114,7 +114,7 @@ ul.address li ul.address-text li a:hover{
 /*--top-nav--*/
 
 .top-nav {
-    background: #008B8B;
+    background: #000000;
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -154,7 +154,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #000000;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -312,7 +312,8 @@ p {
 /*--SAP--*/
 ul.resp-tabs-list {  
 /*-- w3layouts --*/
-background: #F7E612;
+background: #ffdb4d
+;
 }
 .sap_tabs{
 	clear:both;
@@ -352,7 +353,7 @@ background: #F7E612;
 .resp-tab-active,.resp-tab-active:hover{
     text-shadow: none;
     color: #fff;
-    background: #008B8B;
+    background: #15448e;
 }
 .resp-tab-active:before {
     width: 0;
