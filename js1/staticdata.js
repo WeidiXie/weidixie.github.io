@@ -73,32 +73,36 @@ var aboutAwards = [
 
 var publication = [
     {
-        author: "Weidi Xie and Andrew Zisserman",
+        author: "Weidi Xie, Andrew Zisserman",
         title: "Multicolumn Networks on Face Recognition.",
-        conf: "Submitted to British Machine Vision Conference (BMVC), 2018",
+        conf: "Submitted to British Machine Vision Conference (BMVC), 2018.",
         pdf: "pdf/",
-        website: ""
+        website: "",
+        award:""
     },
     {
         author: "Weidi Xie, Li Shen and Andrew Zisserman",
         title: "Comparator Networks.",
-        conf: "Submitted to European Conference on Computer Vision (ECCV), 2018",
+        conf: "Submitted to European Conference on Computer Vision (ECCV), 2018.",
         pdf: "pdf/",
-        website: ""
+        website: "",
+        award:""
     },
     {
         author: "Ana I.L. Namburete, Weidi Xie and J. Alison Noble",
         title: "AffineNet: Spatial Alignment of Volumetric Images.",
-        conf: "Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018",
+        conf: "Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018.",
         pdf: "pdf/",
-        website: ""
+        website: "",
+        award:""
     },
     {
         author: "Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi and Andrew Zisserman",
         title: "VGGFace2: A Dataset for Recognising Faces Across Pose and Age.",
         conf: "In: IEEE International Conference on Automatic Face and Gesture Recognition (F&G), 2018.",
         pdf: "pdf/vggface2.pdf",
-        website: "http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/"
+        website: "http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/",
+        award:"(Oral)"
     },
 
     {
@@ -106,42 +110,48 @@ var publication = [
         title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks",
         conf: "Submitted to Medical Image Analysis. (Under Second Review)",
         pdf: "pdf/omega_nets.pdf",
-        website: "https://arxiv.org/abs/1711.01094"
+        website: "https://arxiv.org/abs/1711.01094",
+        award:""
     },
     {
         author: "Ruobing Huang, Weidi Xie and J. Alison Noble",
         title: "VP-Nets : Efficient Automatic Localization of Key Brain Structures in 3D Fetal Neurosonography",
-        conf: "In: Medical Image Analysis, Volume 47, July 2018, Pages 127–139",
+        conf: "In: Medical Image Analysis, Volume 47, July 2018, Pages 127–139.",
         pdf: "pdf/vp_nets.pdf",
-        website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920"
+        website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920",
+        award:""
     },
     {
         author: "Weidi Xie*, Ana I.L. Namburete*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble (* refers to equal contribution)",
         title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning",
-        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14",
+        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14.",
         pdf: "pdf/3d_brain_alignment.pdf",
-        website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306"
+        website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306",
+        award:""
     },
     {
         author: "Davis M. Vigneaulta, Weidi Xie, David A. Bluemke and J. Alison Noble",
         title: "Feature Tracking Cardiac Magnetic Resonance via Deep Learning and Spline Optimization",
-        conf: "In: Functional Imaging and Modelling of the Heart (FIMH), 2017 (Best Poster Award)",
+        conf: "In: Functional Imaging and Modelling of the Heart (FIMH), 2017.",
         pdf: "pdf/cmr_segmentation.pdf",
-        website: "https://arxiv.org/abs/1704.03660"
+        website: "https://arxiv.org/abs/1704.03660",
+        award:"(Best Poster Award)"
     },
     {
         author: "Ana I.L. Namburete, Weidi Xie and J. Alison Noble",
         title: "Robust Regression of Brain Maturation from 3D Fetal Neurosonography using CRNs",
-        conf: "In: MICCAI Workshop on Fetal and InFant Image analysis (FIFI), 2017 (Best Paper Award)",
+        conf: "In: MICCAI Workshop on Fetal and InFant Image analysis (FIFI), 2017.",
         pdf: "pdf/3d_brain_age.pdf",
-        website: "https://link.springer.com/chapter/10.1007%2F978-3-319-67561-9_8"
+        website: "https://link.springer.com/chapter/10.1007%2F978-3-319-67561-9_8",
+        award:"(Best Paper Award)"
     },
     {
         author: "Weidi Xie, J. Alison Noble and Andrew Zisserman",
         title: "Microscopy Cell Counting and Detection with Fully Convolutional Regression Networks",
-        conf: "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization",
+        conf: "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2016.",
         pdf: "pdf/cell_counting.pdf",
-        website: "https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1149104"
+        website: "https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1149104",
+        award:""
     },
 ];
 
