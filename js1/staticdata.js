@@ -148,7 +148,7 @@ var publication = [
     {
         author: "Weidi Xie, J. Alison Noble and Andrew Zisserman",
         title: "Microscopy Cell Counting and Detection with Fully Convolutional Regression Networks",
-        conf: "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2016.",
+        conf: "In: Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2016.",
         pdf: "pdf/cell_counting.pdf",
         website: "https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1149104",
         award:""
