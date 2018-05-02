@@ -46,7 +46,7 @@ var aboutME = [
         txt: " "
     },
     {
-        txt: "Currently, I'm a postdoctoral researcher in Visual Geometry Group (VGG), Oxford.",
+        txt: "Currently, I'm a postdoctoral researcher in Visual Geometry Group (VGG).",
     },
     {
         txt: "My research interests are in computer vision, biomedical image analysis, and deep learning.",
