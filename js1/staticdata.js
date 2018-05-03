@@ -108,7 +108,7 @@ var publication = [
     {
         author: "Weidi Xie*, Davis M. Vigneault*, Carolyn Y. Ho, David A. Bluemke and J. Alison Noble (* refers to equal contribution, joint first authors)",
         title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks",
-        conf: "Submitted to Medical Image Analysis. (Under Second Review)",
+        conf: "In: Medical Image Analysis. (Accepted)",
         pdf: "pdf/omega_nets.pdf",
         website: "https://arxiv.org/abs/1711.01094",
         award:""
