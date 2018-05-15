@@ -28,7 +28,7 @@ var header = [
 
 var aboutME = [
     {
-        txt: "I completed my D.Phil in Engineering Science in 2018,",
+        txt: "I completed my D.Phil in Engineering Science, University of Oxford, in 2018,",
     },
     {
         txt: "under the supervision of Professor Alison Noble and Professor Andrew Zisserman."
