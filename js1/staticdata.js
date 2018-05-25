@@ -97,14 +97,6 @@ var publication = [
         award:""
     },
     {
-        author: "Ana I.L. Namburete, Weidi Xie and J. Alison Noble",
-        title: "AffineNet: Spatial Alignment of Volumetric Images.",
-        conf: "Submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018.",
-        pdf: "pdf/",
-        website: "",
-        award:""
-    },
-    {
         author: "Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi and Andrew Zisserman",
         title: "VGGFace2: A Dataset for Recognising Faces Across Pose and Age.",
         conf: "In: IEEE International Conference on Automatic Face and Gesture Recognition (F&G), 2018.",
