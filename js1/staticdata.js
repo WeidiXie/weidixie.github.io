@@ -258,7 +258,7 @@ var portfolios = [
             name: "Cardiac MR Segmentation",
             creator: " Weidi Xie",
             desc: "CMR Segmentation",
-            link: "https://arxiv.org/abs/1711.01094",
+            link: "https://www.sciencedirect.com/science/article/pii/S1361841518302998",
             imgSrc: "images/cmr segmentation.png",
             type: "Biomedical Image Analysis",
             btntxt: "Link"
