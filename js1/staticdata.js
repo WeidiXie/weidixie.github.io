@@ -31,7 +31,10 @@ var aboutME = [
         txt: "I completed my D.Phil in Engineering Science, University of Oxford, in 2018,",
     },
     {
-        txt: "under the supervision of Professor Alison Noble and Professor Andrew Zisserman."
+        txt: "under the supervision of Professor Alison Noble and Professor Andrew Zisserman,"
+    },
+    {
+        txt: "examined by Professor Andrea Vedaldi (Internal) and Professor Daniel Rueckert (External)."
     },
     {
         txt: " "
@@ -40,7 +43,7 @@ var aboutME = [
         txt: "I was a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
     },
     {
-        txt: "I was a recipient of Oxford-Google DeepMind Graduate Scholarships from Google Deepmind.",
+        txt: "I was a recipient of Oxford-Google DeepMind Graduate Scholarships on Machine Learning and Biomedical Image Analysis.",
     },
     {
         txt: " "
@@ -49,7 +52,7 @@ var aboutME = [
         txt: "Currently, I'm a postdoctoral researcher in Visual Geometry Group (VGG).",
     },
     {
-        txt: "My research interests are in computer vision, biomedical image analysis, and deep learning.",
+        txt: "My research interests are in computer vision, deep learning, and biomedical image analysis.",
     },
     {
         txt: "Please see my publications for some academic work.",
