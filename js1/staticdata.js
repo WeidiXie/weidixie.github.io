@@ -2,7 +2,7 @@ var myself = {
     name: "WEIDI XIE",
     profession: "Postdoctoral Researcher in Visual Geometry Group (VGG)",
     address: "Parks Road, Oxford, OX1 3PJ",
-    email: "removethisweidi.xie@eng.ox.ac.uk"
+    email: "removethisweidi@robots.ox.ac.uk"
 }
 
 var starter = {
