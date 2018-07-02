@@ -78,15 +78,7 @@ var publication = [
     {
         author: "Weidi Xie, Andrew Zisserman",
         title: "Multicolumn Networks on Face Recognition.",
-        conf: "Submitted to British Machine Vision Conference (BMVC), 2018.",
-        pdf: "pdf/",
-        website: "",
-        award:""
-    },
-    {
-        author: "Erika Lu, Weidi Xie and Andrew Zisserman",
-        title: "When Tracking Met Counting: An Adaptable, Self-Similarity Counting Network.",
-        conf: "Submitted to British Machine Vision Conference (BMVC), 2018.",
+        conf: "To Appear in British Machine Vision Conference (BMVC), 2018.",
         pdf: "pdf/",
         website: "",
         award:""
