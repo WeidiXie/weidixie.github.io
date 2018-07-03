@@ -86,7 +86,7 @@ var publication = [
     {
         author: "Weidi Xie, Li Shen and Andrew Zisserman",
         title: "Comparator Networks.",
-        conf: "Submitted to European Conference on Computer Vision (ECCV), 2018.",
+        conf: "To Appear in European Conference on Computer Vision (ECCV), 2018.",
         pdf: "pdf/",
         website: "",
         award:""
