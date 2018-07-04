@@ -102,7 +102,7 @@ var publication = [
 
     {
         author: "Davis M. Vigneault*, Weidi Xie*, Carolyn Y. Ho, David A. Bluemke and J. Alison Noble (* indicates equal contribution)",
-        title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks",
+        title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks.",
         conf: "In: Medical Image Analysis, Volume 48, August 2018, Pages 95–106. (* indicates equal contribution, 5-Year Impact Factor: 5.417)",
         pdf: "pdf/omega_nets.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518302998",
@@ -110,7 +110,7 @@ var publication = [
     },
     {
         author: "Ruobing Huang, Weidi Xie and J. Alison Noble",
-        title: "VP-Nets : Efficient Automatic Localization of Key Brain Structures in 3D Fetal Neurosonography",
+        title: "VP-Nets : Efficient Automatic Localization of Key Brain Structures in 3D Fetal Neurosonography.",
         conf: "In: Medical Image Analysis, Volume 47, July 2018, Pages 127–139. (5-Year Impact Factor: 5.417)",
         pdf: "pdf/vp_nets.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518301920",
@@ -118,7 +118,7 @@ var publication = [
     },
     {
         author: "Ana I.L. Namburete*, Weidi Xie*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble (* indicates equal contribution)",
-        title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning",
+        title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning.",
         conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14. (* indicates equal contribution, 5-Year Impact Factor: 5.417)",
         pdf: "pdf/3d_brain_alignment.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306",
@@ -126,7 +126,7 @@ var publication = [
     },
     {
         author: "Davis M. Vigneaulta, Weidi Xie, David A. Bluemke and J. Alison Noble",
-        title: "Feature Tracking Cardiac Magnetic Resonance via Deep Learning and Spline Optimization",
+        title: "Feature Tracking Cardiac Magnetic Resonance via Deep Learning and Spline Optimization.",
         conf: "In: Functional Imaging and Modelling of the Heart (FIMH), 2017.",
         pdf: "pdf/cmr_segmentation.pdf",
         website: "https://arxiv.org/abs/1704.03660",
@@ -134,7 +134,7 @@ var publication = [
     },
     {
         author: "Ana I.L. Namburete, Weidi Xie and J. Alison Noble",
-        title: "Robust Regression of Brain Maturation from 3D Fetal Neurosonography using CRNs",
+        title: "Robust Regression of Brain Maturation from 3D Fetal Neurosonography using CRNs.",
         conf: "In: MICCAI Workshop on Fetal and InFant Image analysis (FIFI), 2017.",
         pdf: "pdf/3d_brain_age.pdf",
         website: "https://link.springer.com/chapter/10.1007%2F978-3-319-67561-9_8",
@@ -142,7 +142,7 @@ var publication = [
     },
     {
         author: "Weidi Xie, J. Alison Noble and Andrew Zisserman",
-        title: "Microscopy Cell Counting and Detection with Fully Convolutional Regression Networks",
+        title: "Microscopy Cell Counting and Detection with Fully Convolutional Regression Networks.",
         conf: "In: Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2016.",
         pdf: "pdf/cell_counting.pdf",
         website: "https://www.tandfonline.com/doi/abs/10.1080/21681163.2016.1149104",
