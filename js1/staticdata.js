@@ -103,7 +103,7 @@ var publication = [
     {
         author: "Davis M. Vigneault*, Weidi Xie*, Carolyn Y. Ho, David A. Bluemke and J. Alison Noble (* indicates equal contribution)",
         title: "Omega-Net: Fully Automatic, Multi-View Cardiac MR Detection, Orientation, and Segmentation with Deep Neural Networks.",
-        conf: "In: Medical Image Analysis, Volume 48, August 2018, Pages 95–106. (* indicates equal contribution, 5-Year Impact Factor: 5.417)",
+        conf: "In: Medical Image Analysis, Volume 48, August 2018, Pages 95–106. (5-Year Impact Factor: 5.417)",
         pdf: "pdf/omega_nets.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518302998",
         award:""
@@ -119,7 +119,7 @@ var publication = [
     {
         author: "Ana I.L. Namburete*, Weidi Xie*, Mohammad Yaqub, Andrew Zisserman and J. Alison Noble (* indicates equal contribution)",
         title: "Fully-Automated Alignment of 3D Fetal Brain Ultrasound to A Canonical Reference Space Using Multi-task Learning.",
-        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14. (* indicates equal contribution, 5-Year Impact Factor: 5.417)",
+        conf: "In: Medical Image Analysis, Volume 46, May 2018, Pages 1-14. (5-Year Impact Factor: 5.417)",
         pdf: "pdf/3d_brain_alignment.pdf",
         website: "https://www.sciencedirect.com/science/article/pii/S1361841518300306",
         award:""
