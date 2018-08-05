@@ -76,11 +76,11 @@ var aboutAwards = [
 
 var publication = [
     {
-        author: "Weidi Xie, Andrew Zisserman",
-        title: "Multicolumn Networks on Face Recognition.",
-        conf: "To Appear in British Machine Vision Conference (BMVC), 2018.",
-        pdf: "pdf/bmvc2018_multicolumn.pdf",
-        website: "",
+        author: "Weidi Xie",
+        title: "Deep Neural Networks in Computer Vision and Biomedical Image Analysis.",
+        conf: "Dphil Thesis, University of Oxford, 2018.",
+        pdf: "http://www.robots.ox.ac.uk/~vgg/publications/2017/Xie17/xie17.pdf",
+        website: "http://www.robots.ox.ac.uk/~vgg/publications/2017/Xie17/xie17.pdf",
         award:""
     },
     {
@@ -88,6 +88,14 @@ var publication = [
         title: "Comparator Networks.",
         conf: "To Appear in European Conference on Computer Vision (ECCV), 2018.",
         pdf: "pdf/eccv18_comparator_networks.pdf",
+        website: "",
+        award:""
+    },
+    {
+        author: "Weidi Xie, Andrew Zisserman",
+        title: "Multicolumn Networks on Face Recognition.",
+        conf: "To Appear in British Machine Vision Conference (BMVC), 2018.",
+        pdf: "pdf/bmvc2018_multicolumn.pdf",
         website: "",
         award:""
     },
