@@ -100,6 +100,14 @@ var publication = [
         award:""
     },
     {
+        author: "Erika Lu, Weidi Xie and Andrew Zisserman",
+        title: "When Tracking Met Counting: A Class-Agnostic Adaptation Approach",
+        conf: "In: Asian Conference on Computer Vision (ACCV), 2018.",
+        pdf: "",
+        website: "",
+        award:""
+    },
+    {
         author: "Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi and Andrew Zisserman",
         title: "VGGFace2: A Dataset for Recognising Faces Across Pose and Age.",
         conf: "In: IEEE International Conference on Automatic Face and Gesture Recognition (F&G), 2018.",
