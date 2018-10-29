@@ -101,7 +101,7 @@ var publication = [
     },
     {
         author: "Erika Lu, Weidi Xie and Andrew Zisserman",
-        title: "When Tracking Met Counting: A Class-Agnostic Adaptation Approach",
+        title: "Class-Agnostic Counting",
         conf: "In: Asian Conference on Computer Vision (ACCV), 2018.",
         pdf: "",
         website: "",
