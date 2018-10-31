@@ -88,7 +88,7 @@ var publication = [
         title: "Comparator Networks.",
         conf: "In: European Conference on Computer Vision (ECCV), 2018.",
         pdf: "pdf/eccv18_comparator_networks.pdf",
-        website: "",
+        website: "http://www.robots.ox.ac.uk/~vgg/publications/2018/Xie18a/xie18a.pdf",
         award:""
     },
     {
@@ -96,15 +96,15 @@ var publication = [
         title: "Multicolumn Networks on Face Recognition.",
         conf: "In: British Machine Vision Conference (BMVC), 2018.",
         pdf: "pdf/bmvc2018_multicolumn.pdf",
-        website: "",
+        website: "http://www.robots.ox.ac.uk/~vgg/publications/2018/Xie18b/xie18b.pdf",
         award:""
     },
     {
         author: "Erika Lu, Weidi Xie and Andrew Zisserman",
         title: "Class-Agnostic Counting",
         conf: "In: Asian Conference on Computer Vision (ACCV), 2018.",
-        pdf: "",
-        website: "",
+        pdf: "pdf/counting.pdf",
+        website: "http://www.robots.ox.ac.uk/~vgg/publications/2018/Lu18/lu18.pdf",
         award:""
     },
     {
