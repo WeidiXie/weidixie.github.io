@@ -76,6 +76,14 @@ var aboutAwards = [
 
 var publication = [
     {
+        author: "Weidi Xie, Arsha Nagrani, Joon Son Chung, Andrew Zisserman",
+        title: "Utterance-level Aggregation For Speaker Recognition In The Wild.",
+        conf: "In: International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.",
+        pdf: "",
+        website: "",
+        award:"Oral Presentation"
+    },
+    {
         author: "Weidi Xie",
         title: "Deep Neural Networks in Computer Vision and Biomedical Image Analysis.",
         conf: "Dphil Thesis, University of Oxford, 2018.",
