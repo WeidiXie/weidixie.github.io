@@ -79,8 +79,8 @@ var publication = [
         author: "Weidi Xie, Arsha Nagrani, Joon Son Chung, Andrew Zisserman",
         title: "Utterance-level Aggregation For Speaker Recognition In The Wild.",
         conf: "In: International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.",
-        pdf: "",
-        website: "",
+        pdf: "https://arxiv.org/abs/1902.10107",
+        website: "http://www.robots.ox.ac.uk/~vgg/research/speakerID/",
         award:"Oral Presentation"
     },
     {
