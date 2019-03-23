@@ -31,7 +31,7 @@ var aboutME = [
         txt: "I completed my D.Phil in Engineering Science, University of Oxford, in 2018,",
     },
     {
-        txt: "under the supervision of Professor Alison Noble and Professor Andrew Zisserman,"
+        txt: "under the supervision of Professor Alison Noble (BioMedIA) and Professor Andrew Zisserman (VGG),"
     },
     {
         txt: "examined by Professor Andrea Vedaldi (Internal) and Professor Daniel Rueckert (External)."
@@ -49,7 +49,7 @@ var aboutME = [
         txt: " "
     },
     {
-        txt: "Currently, I'm a postdoctoral researcher in Visual Geometry Group (VGG).",
+        txt: "Currently, I'm a research fellow in Visual Geometry Group (VGG).",
     },
     {
         txt: "My research interests are in computer vision, deep learning, and biomedical image analysis.",
