@@ -40,10 +40,13 @@ var aboutME = [
         txt: " "
     },
     {
-        txt: "I was a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
+        txt: "I won the 2018 Excellence Award from Department of Engineering Science, University of Oxford",
     },
     {
         txt: "I was a recipient of Oxford-Google DeepMind Graduate Scholarships on Machine Learning and Biomedical Image Analysis.",
+    },
+    {
+        txt: "I was a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF),",
     },
     {
         txt: " "
