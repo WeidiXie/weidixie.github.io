@@ -173,7 +173,7 @@ var publication = [
         conf: "In: Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 2016.",
         pdf: "pdf/cell_counting.pdf",
         website: "https://think.taylorandfrancis.com/journal-prize-computer-methods-in-biomechanics-and-biomedical-engineering-imaging-visualization-best-paper-award/",
-        award:"(BestPaper Award)"
+        award:"(Best Paper Award)"
     },
 ];
 
