@@ -1,0 +1,9 @@
+Weidi is a research fellow at Visual Geometry Group,
+where he works on computer vision, deep learning, and biomedical image analysis.
+He completed my D.Phil in 2018, in Engineering Science, University of Oxford,
+under the supervision of Professor Alison Noble (BioMedIA) and Professor Andrew Zisserman (VGG),
+examined by Professor Andrea Vedaldi (Internal) and Professor Daniel Rueckert (External)
+
+He received the 2018 Excellence Award from Department of Engineering Science, University of Oxford.
+He was a recipient of Oxford-Google DeepMind Graduate Scholarships on Machine Learning and Biomedical Image Analysis.
+He was a recipient of Magdalen Award from China Oxford Scholarship Fund (COSF).

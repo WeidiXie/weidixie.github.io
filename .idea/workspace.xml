@@ -2,7 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/js1/staticdata.js" beforeDir="false" afterPath="$PROJECT_DIR$/js1/staticdata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/swipebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/publication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/top_nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/work_experience.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3d brain alignment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3d brain structure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cell_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cmr segmentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/comparator networks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dott.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lrnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/methode-sundaytimes-prod-web-bin-4ba37ac4-fdf4-11e7-ba61-5366488da64d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/move-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/multicolumn networks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vggface2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/easyResponsiveTabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.swipebox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/move-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/.idea/js1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/aboutme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/education.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/portfolio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/publication.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/skills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/smooth_scrolling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/staticdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/toucheffects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js1/work_experience.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/3d_brain_age.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/3d_brain_alignment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/bmvc2018_multicolumn.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/cell_counting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/cmr_segmentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/counting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/eccv18_comparator_networks.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/omega_nets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/vggface2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/vp_nets.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,112 +89,46 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="4" />
+          <entry key="html" value="25" />
           <entry key="js" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="25" />
           <entry key="JavaScript" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/about_me.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js1/publication.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/publication.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4710">
-              <caret line="314" column="19" selection-start-line="314" selection-start-column="19" selection-end-line="314" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js1/header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+            <state relative-caret-position="491">
+              <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -176,8 +185,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/html/publication.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js1/staticdata.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -191,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,15 +207,11 @@
               <item name="weidi-personal-webpage" type="b2602c69:ProjectViewProjectNode" />
               <item name="weidi-personal-webpage" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="weidi-personal-webpage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weidi-personal-webpage" type="462c0819:PsiDirectoryNode" />
-              <item name="js1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,234 +274,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
     <entry file="file://$USER_HOME$/Downloads/Personal-Website-Template-gh-pages/js1/staticdata.js" />
     <entry file="file://$USER_HOME$/Downloads/Personal-Website-Template-gh-pages/index.html" />
-    <entry file="file://$PROJECT_DIR$/html/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/top_nav.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/work_experience.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/easing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/easyResponsiveTabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/handlebars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/move-top.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="200" column="23" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/education.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/smooth_scrolling.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/work_experience.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/toucheffects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/swipebox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/aboutme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/skills.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1091" column="13" selection-start-line="1091" selection-start-column="10" selection-end-line="1091" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/elen/photography.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="71" column="166" selection-start-line="71" selection-start-column="163" selection-end-line="71" selection-end-column="166" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/footer.html" />
+    <entry file="file://$PROJECT_DIR$/html/top_nav.html" />
+    <entry file="file://$PROJECT_DIR$/html/work_experience.html" />
+    <entry file="file://$PROJECT_DIR$/js/easing.js" />
+    <entry file="file://$PROJECT_DIR$/js/easyResponsiveTabs.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/handlebars.js" />
+    <entry file="file://$PROJECT_DIR$/js/move-top.js" />
+    <entry file="file://$PROJECT_DIR$/js1/modernizr.custom.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/js1/education.js" />
+    <entry file="file://$PROJECT_DIR$/js1/smooth_scrolling.js" />
+    <entry file="file://$PROJECT_DIR$/html/skills.html" />
+    <entry file="file://$PROJECT_DIR$/js1/contact.js" />
+    <entry file="file://$PROJECT_DIR$/js1/work_experience.js" />
+    <entry file="file://$PROJECT_DIR$/js1/toucheffects.js" />
+    <entry file="file://$PROJECT_DIR$/css/swipebox.css" />
+    <entry file="file://$PROJECT_DIR$/html/contact.html" />
+    <entry file="file://$PROJECT_DIR$/js1/portfolio.js" />
+    <entry file="file://$PROJECT_DIR$/html/education.html" />
+    <entry file="file://$PROJECT_DIR$/js1/aboutme.js" />
+    <entry file="file://$PROJECT_DIR$/js1/skills.js" />
+    <entry file="file://$PROJECT_DIR$/html/portfolio.html" />
+    <entry file="file://$PROJECT_DIR$/js1/index.js" />
+    <entry file="file://$PROJECT_DIR$/css/default.css" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css" />
+    <entry file="file://$USER_HOME$/Desktop/elen/photography.html" />
+    <entry file="file://$PROJECT_DIR$/html/about_me.html" />
+    <entry file="file://$PROJECT_DIR$/js1/publication.js" />
+    <entry file="file://$PROJECT_DIR$/html/publication.html" />
+    <entry file="file://$PROJECT_DIR$/html/header.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/js1/header.js" />
+    <entry file="file://$PROJECT_DIR$/js1/staticdata.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/about_me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/publication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/publication.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4710">
-          <caret line="314" column="19" selection-start-line="314" selection-start-column="19" selection-end-line="314" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1/staticdata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+        <state relative-caret-position="491">
+          <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
         </state>
       </provider>
     </entry>
