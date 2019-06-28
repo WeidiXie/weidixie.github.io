@@ -3,81 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/swipebox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/codropsicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/codropsicons/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/education.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/publication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/skills.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/top_nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/work_experience.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3d brain alignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3d brain structure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg_header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cell_count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmr segmentation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/comparator networks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dott.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lrnn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/methode-sundaytimes-prod-web-bin-4ba37ac4-fdf4-11e7-ba61-5366488da64d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/move-up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/multicolumn networks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pp.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vggface2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/easyResponsiveTabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.swipebox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/move-top.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/.idea/js1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/aboutme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/education.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/portfolio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/publication.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/skills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/smooth_scrolling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/staticdata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/toucheffects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js1/work_experience.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/3d_brain_age.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/3d_brain_alignment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/bmvc2018_multicolumn.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cell_counting.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cmr_segmentation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/counting.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/eccv18_comparator_networks.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/omega_nets.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/vggface2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/vp_nets.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +14,14 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="6" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -127,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+            <state relative-caret-position="386">
+              <caret line="93" column="18" lean-forward="true" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -200,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +170,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18746233" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -313,8 +238,8 @@
     <entry file="file://$PROJECT_DIR$/js1/staticdata.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        <state relative-caret-position="386">
+          <caret line="93" column="18" lean-forward="true" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
         </state>
       </provider>
     </entry>
