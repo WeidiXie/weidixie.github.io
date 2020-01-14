@@ -15,29 +15,29 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.2" value="9" />
-          <entry key="project.open.time.3" value="12" />
+          <entry key="project.open.time.3" value="13" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bib" value="226" />
           <entry key="css" value="22" />
-          <entry key="html" value="999" />
+          <entry key="html" value="1008" />
           <entry key="js" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="999" />
+          <entry key="HTML" value="1008" />
           <entry key="JavaScript" value="28" />
           <entry key="PLAIN_TEXT" value="226" />
         </counts>
@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="166" column="45" selection-start-line="166" selection-start-column="45" selection-end-line="166" selection-end-column="45" />
+            <state relative-caret-position="470">
+              <caret line="88" column="59" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -353,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="166" column="45" selection-start-line="166" selection-start-column="45" selection-end-line="166" selection-end-column="45" />
+        <state relative-caret-position="470">
+          <caret line="88" column="59" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
         </state>
       </provider>
     </entry>
