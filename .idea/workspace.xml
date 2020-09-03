@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +14,15 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="70" />
+          <entry key="project.closed" value="71" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="16" />
           <entry key="project.open.time.2" value="10" />
           <entry key="project.open.time.3" value="25" />
-          <entry key="project.open.time.4" value="15" />
+          <entry key="project.open.time.4" value="16" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="71" />
+          <entry key="project.opened" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -77,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="353" column="95" selection-start-line="353" selection-start-column="95" selection-end-line="353" selection-end-column="95" />
+            <state relative-caret-position="328">
+              <caret line="88" column="51" selection-start-line="88" selection-start-column="51" selection-end-line="88" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -231,7 +230,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1506932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1506932" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -242,7 +241,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25561497" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25561497" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -377,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="353" column="95" selection-start-line="353" selection-start-column="95" selection-end-line="353" selection-end-column="95" />
+        <state relative-caret-position="328">
+          <caret line="88" column="51" selection-start-line="88" selection-start-column="51" selection-end-line="88" selection-end-column="51" />
         </state>
       </provider>
     </entry>
