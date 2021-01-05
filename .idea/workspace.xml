@@ -15,22 +15,22 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="96" />
+          <entry key="project.closed" value="99" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="19" />
+          <entry key="project.open.time.1" value="20" />
           <entry key="project.open.time.2" value="11" />
           <entry key="project.open.time.3" value="32" />
-          <entry key="project.open.time.4" value="27" />
-          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.4" value="28" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="97" />
+          <entry key="project.opened" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bib" value="226" />
           <entry key="css" value="22" />
-          <entry key="html" value="1807" />
+          <entry key="html" value="1871" />
           <entry key="js" value="28" />
           <entry key="py" value="196" />
         </counts>
@@ -38,7 +38,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="1807" />
+          <entry key="HTML" value="1871" />
           <entry key="JavaScript" value="28" />
           <entry key="PLAIN_TEXT" value="226" />
           <entry key="Python" value="196" />
@@ -80,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="117" column="15" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
+            <state relative-caret-position="279">
+              <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -177,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,7 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="117" column="15" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
+        <state relative-caret-position="279">
+          <caret line="86" column="18" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
