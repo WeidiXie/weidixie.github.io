@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +14,22 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="104" />
+          <entry key="project.closed" value="105" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="22" />
           <entry key="project.open.time.2" value="11" />
           <entry key="project.open.time.3" value="33" />
-          <entry key="project.open.time.4" value="29" />
+          <entry key="project.open.time.4" value="30" />
           <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="105" />
+          <entry key="project.opened" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bib" value="226" />
           <entry key="css" value="22" />
-          <entry key="html" value="2144" />
+          <entry key="html" value="2481" />
           <entry key="js" value="28" />
           <entry key="py" value="196" />
         </counts>
@@ -41,7 +37,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="2144" />
+          <entry key="HTML" value="2481" />
           <entry key="JavaScript" value="28" />
           <entry key="PLAIN_TEXT" value="226" />
           <entry key="Python" value="196" />
@@ -51,7 +47,7 @@
         <counts>
           <entry key="bib" value="11" />
           <entry key="css" value="1" />
-          <entry key="html" value="14" />
+          <entry key="html" value="15" />
           <entry key="py" value="3" />
           <entry key="txt" value="1" />
         </counts>
@@ -59,7 +55,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="14" />
+          <entry key="HTML" value="15" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Python" value="3" />
         </counts>
@@ -85,8 +81,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="16" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="22" selection-end-column="16" />
+                <state relative-caret-position="473">
+                  <caret line="58" column="88" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="88" />
                 </state>
               </provider>
             </entry>
@@ -94,16 +90,25 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/research.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+                <state relative-caret-position="120">
+                  <caret line="9" column="7" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/people.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="490">
+                  <caret line="38" selection-start-line="38" selection-end-line="38" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="314">
+                <state relative-caret-position="330">
                   <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
                 </state>
               </provider>
@@ -112,16 +117,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$USER_HOME$/Downloads/website-master/index.html">
+            <entry file="file://$PROJECT_DIR$/../../slides/VALSE Presentation/sota.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="32146">
-                  <caret line="2174" column="28" lean-forward="true" selection-start-line="2174" selection-start-column="28" selection-end-line="2174" selection-end-column="28" />
+                <state relative-caret-position="540">
+                  <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
                   <folding>
-                    <element signature="e#7048#7100#0" expanded="true" />
-                    <element signature="e#9376#9428#0" expanded="true" />
-                    <element signature="e#117119#117171#0" expanded="true" />
+                    <element signature="e#0#18#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -204,6 +207,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/people.html" />
       </list>
     </option>
   </component>
@@ -273,7 +277,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07474382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11693791" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,7 +305,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/work_experience.html" />
     <entry file="file://$PROJECT_DIR$/js/easing.js" />
     <entry file="file://$PROJECT_DIR$/js/easyResponsiveTabs.js" />
     <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.min.js" />
@@ -413,6 +416,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/website-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="2174" column="28" lean-forward="true" selection-start-line="2174" selection-start-column="28" selection-end-line="2174" selection-end-column="28" />
+          <folding>
+            <element signature="e#7048#7100#0" expanded="true" />
+            <element signature="e#9376#9428#0" expanded="true" />
+            <element signature="e#117119#117171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../slides/VALSE Presentation/sota.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -423,36 +445,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/website-master/index.html">
+    <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32146">
-          <caret line="2174" column="28" lean-forward="true" selection-start-line="2174" selection-start-column="28" selection-end-line="2174" selection-end-column="28" />
-          <folding>
-            <element signature="e#7048#7100#0" expanded="true" />
-            <element signature="e#9376#9428#0" expanded="true" />
-            <element signature="e#117119#117171#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="9" column="7" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="473">
+          <caret line="58" column="88" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
+    <entry file="file://$PROJECT_DIR$/people.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="490">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
