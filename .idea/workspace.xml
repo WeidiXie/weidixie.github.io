@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06019a91-52e0-48a6-a4c8-8c77438ed0dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,24 +15,24 @@
     <session id="-1130488397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="120" />
+          <entry key="project.closed" value="121" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="23" />
           <entry key="project.open.time.2" value="11" />
           <entry key="project.open.time.3" value="34" />
-          <entry key="project.open.time.4" value="32" />
+          <entry key="project.open.time.4" value="33" />
           <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="121" />
+          <entry key="project.opened" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bib" value="226" />
           <entry key="css" value="22" />
-          <entry key="html" value="3503" />
+          <entry key="html" value="3505" />
           <entry key="js" value="28" />
           <entry key="py" value="196" />
         </counts>
@@ -40,7 +40,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="3503" />
+          <entry key="HTML" value="3505" />
           <entry key="JavaScript" value="28" />
           <entry key="PLAIN_TEXT" value="226" />
           <entry key="Python" value="196" />
@@ -81,20 +81,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="349">
+                <state relative-caret-position="945">
                   <caret line="63" column="156" selection-start-line="63" selection-start-column="156" selection-end-line="63" selection-end-column="156" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/research.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="618">
-                  <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+                <state relative-caret-position="368">
+                  <caret line="427" selection-start-line="427" selection-end-line="427" />
                 </state>
               </provider>
             </entry>
@@ -139,7 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Mas</find>
       <find>Ma</find>
       <find>6th position in Code Warriors challenge 2014</find>
       <find>starter</find>
@@ -169,6 +168,7 @@
       <find>impact</find>
       <find>dynamo</find>
       <find>ylim</find>
+      <find>news</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -209,8 +209,8 @@
         <option value="$PROJECT_DIR$/../../slides/VALSE Presentation/sota.py" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/people.html" />
-        <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/research.html" />
       </list>
     </option>
   </component>
@@ -420,6 +420,13 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/website-master/index.html" />
     <entry file="file://$PROJECT_DIR$/entropy_vis.py" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="156" selection-start-line="63" selection-start-column="156" selection-end-line="63" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/people.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -446,15 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="63" column="156" selection-start-line="63" selection-start-column="156" selection-end-line="63" selection-end-column="156" />
+        <state relative-caret-position="368">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
         </state>
       </provider>
     </entry>
